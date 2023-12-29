@@ -19,6 +19,7 @@ https://ericguo5513.github.io/momask/
 
 ### 🖼 Output
 
+https://github.com/camenduru/MoMask-colab/assets/54370274/24e74845-bd09-40dc-a0c0-e94ad0b6eb65
 
 ### 🏢 Sponsor
 https://modelslab.com
